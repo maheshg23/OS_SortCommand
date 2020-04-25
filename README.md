@@ -1,4 +1,4 @@
-# Operating System (OS-6233) NYU Spring 2020 
+# Operating System (OS-6233) NYU Spring 2020 Lab 1 
 
 In this assignment, you’ll start getting familiar with xv6 by writing a couple simple programs that run in the xv6 OS.
 As a prerequisite, make sure that you have followed the install instructions from NYU Classes to get your build
