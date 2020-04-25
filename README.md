@@ -7,12 +7,12 @@ A common theme of the homework assignments is that we’ll start off with xv6, a
 in some way. This assignment is no exception. Start by getting a copy of xv6 using git (commands typed at the
 terminal, and their output, will be shown using a monospace font; the commands type will be indicated by a $):
 
-`$ git clone https://github.com/moyix/xv6-public.git`
-`$ cd xv6-public`
-`$ make`
-Then, to run it inside of QEMU, you can do:
-`$ make qemu-nox`
-QEMU should appear and show the xv6 command prompt, where you can run programs inside xv6.
+`$ git clone https://github.com/moyix/xv6-public.git`  
+`$ cd xv6-public`  
+`$ make`  
+Then, to run it inside of QEMU, you can do:  
+`$ make qemu-nox`  
+QEMU should appear and show the xv6 command prompt, where you can run programs inside xv6.  
 
 ## Hello Command 
 Write a program for xv6 that, when run, prints ”Hello world” to the xv6 console. This can be broken up into a few
