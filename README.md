@@ -33,10 +33,10 @@ then close it. If no filename is provided, sort should read from standard input.
 
 ## Extending sort 
 
-The traditional UNIX sort utility can do lots of things, such as:
-• -r: Sorting in reverse order
-• -o: Write the output to a new file
-• -n: To sort a file numerically
+The traditional UNIX sort utility can do lots of things, such as:  
+• -r: Sorting in reverse order  
+• -o: Write the output to a new file  
+• -n: To sort a file numerically  
 Here, we are going to implement these three behaviors in your version of sort. The expected output of these
 commands should be:
 
